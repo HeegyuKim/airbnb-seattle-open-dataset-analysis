@@ -18,7 +18,6 @@ Dataset files from https://www.kaggle.com/airbnb/seattle
 - listings.csv: Listings, including full descriptions and average review score
 - reviews.csv: Reviews, including unique id for each reviewer and detailed comments
 - airbnb-analysis.ipynb: IPython Notebook for data preparation, modeling, evaluation
-- map.html: visualize the location of hostings on the google map
 - requirements.txt: required packages for python
 
 ## Requirements - You must know about
